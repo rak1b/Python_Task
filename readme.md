@@ -1,0 +1,1 @@
+Just run the run.py file for the first time only.then main.exe file will run in background and send mail to given email
